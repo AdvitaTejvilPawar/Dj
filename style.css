@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0;
+}
+.note{
+    color: black;
+    font-size: 18px;
+}
+.speed_div{
+    float: left;
+}
+.disk{
+    width: 200px; ;
+    border-radius:100px ;
+}
+.speed_label{
+    color: white;
+    background-color: brown;
+}
+
+
+.volume_div{
+    float: right;
+}
+
+.volume_label{
+    color: white;
+    background-color: brown;
+}
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+
+}
